@@ -1,0 +1,6 @@
+com\example\lab10\AppConfig.class
+com\example\lab10\model\Product.class
+com\example\lab10\Lab10Application.class
+com\example\lab10\repository\ProductRepository.class
+com\example\lab10\controller\ProductController.class
+com\example\lab10\client\ProductWebClient.class
